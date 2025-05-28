@@ -16,5 +16,4 @@
 
 
 
-   -Notes Make sure Apache and MySQL are running
-Database name should match the .sql import
+   -Notes Make sure Apache and MySQL are running, Database name should match the .sql import
